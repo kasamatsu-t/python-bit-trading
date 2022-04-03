@@ -1,12 +1,9 @@
 from datetime import datetime
 import logging
-import math
-import time
 import hashlib
 import hmac
 import requests
 import json
-import constants
 
 logger = logging.getLogger(__name__)
 

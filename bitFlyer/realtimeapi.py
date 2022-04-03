@@ -1,9 +1,7 @@
-from bitFlyer.bitFlyer import Ticker
 import json
 import websocket
 from datetime import datetime, timedelta
 import dateutil.parser
-from time import sleep, mktime
 import math
 from logging import getLogger, INFO, StreamHandler
 import settings
