@@ -1,0 +1,4 @@
+.envrc
+node_modules
+bitdata.sql
+__pycache__
